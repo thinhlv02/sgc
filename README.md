@@ -1,2 +1,0 @@
-# sgc
-project webintro
